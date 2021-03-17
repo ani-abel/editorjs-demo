@@ -1,0 +1,21 @@
+body {
+  background: #e9e9e9;
+  height: 100%;
+  padding: 3em;
+  font-family: "Monterrat";
+}
+
+#editor-area {
+  background: #fff;
+}
+
+button {
+  background: #00aeff;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 1em;
+  margin-top: 2em;
+}
+/*# sourceMappingURL=main.css.map */
